@@ -25,16 +25,17 @@ Finkarch is a full-stack expense tracking application built with the MERN stack 
 git clone https://github.com/yourusername/spendanalysis.git
 cd spendanalysis
 ```
+Frontend is called --- krspending
 
 ### 2️⃣ Install Dependencies
 #### Install frontend dependencies:
 ```bash
-cd client
+cd krspending
 npm install
 ```
 #### Install backend dependencies:
 ```bash
-cd server
+cd backend
 npm install
 ```
 
@@ -49,12 +50,12 @@ JWT_SECRET=your_secret_key
 ### 4️⃣ Run the Application
 #### Start Backend:
 ```bash
-cd server
+cd backend
 nodemon server.js
 ```
 #### Start Frontend:
 ```bash
-cd client
+cd krspending
 npm run dev
 ```
 
