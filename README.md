@@ -2,6 +2,9 @@
 
 ## Overview
 Finkarch is a full-stack expense tracking application built with the MERN stack (MongoDB, Express.js, React, Node.js). It allows users to track their expenses, manage spending limits, and view insightful analytics. Admin users can manage users, view transaction data, and export reports.
+### Dashboard Preview
+
+![Dashboard](https://github.com/thanishmamilla/FinKarch-Spend-analysis-/raw/main/Dashboard.png)
 
 ## Features
 - ✅ **User Authentication** (Signup, Login, JWT-based auth)
