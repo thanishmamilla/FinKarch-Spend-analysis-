@@ -5,6 +5,15 @@ Finkarch is a full-stack expense tracking application built with the MERN stack 
 ### Dashboard Preview
 
 ![Dashboard](https://github.com/thanishmamilla/FinKarch-Spend-analysis-/raw/main/Dashboard.png)
+### Transaction Preview
+
+![Dashboard](https://github.com/thanishmamilla/FinKarch-Spend-analysis-/raw/main/Transaction.png)
+### Admin Preview
+
+![Dashboard](https://github.com/thanishmamilla/FinKarch-Spend-analysis-/raw/main/Admin.png)
+### Login Preview
+
+![Dashboard](https://github.com/thanishmamilla/FinKarch-Spend-analysis-/raw/main/Login.png)
 
 ## Features
 - ✅ **User Authentication** (Signup, Login, JWT-based auth)
